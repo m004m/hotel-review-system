@@ -1,2 +1,3 @@
+spring:
   application:
     name: rating-service-ms-GIT
